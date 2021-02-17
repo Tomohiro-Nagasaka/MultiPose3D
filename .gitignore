@@ -1,0 +1,8 @@
+**/__pycache__/
+env/
+
+Note.md
+WriterTest.py
+video/output3D.mp4
+video/output2D.mp4
+video/output2D-reenc.mp4
