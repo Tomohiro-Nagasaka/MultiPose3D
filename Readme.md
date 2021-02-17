@@ -5,7 +5,7 @@ Support both ONNX and TensorFlow
 
 ![](markdown/top.jpg)
 
-A demo video is [here](other_file.md)
+A demo video is [here](video/output3D-reenc.mp4)
 
 ## How to use
 
