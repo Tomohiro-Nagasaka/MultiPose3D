@@ -3,13 +3,13 @@
 
 Support both ONNX and TensorFlow
 
-![](markdown/top.jpg)
+Demo videos are [here (this repo)](video/output3D-reenc.mp4) and [here (youtube)](https://www.youtube.com/watch?v=hJunhGXstFY).
 
-A demo video is [here](video/output3D-reenc.mp4)
+![](markdown/top.jpg)
 
 ## How to use
 
-Install requirements (and tensorflow if needed.)
+Install requirements (and tensorflow if you wish.)
 
 Modify Config.py to switch TF/ONNX.
 
