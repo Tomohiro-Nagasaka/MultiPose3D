@@ -1,7 +1,9 @@
 
-# Realtime 3D/2D multi Pose tracker
+# Realtime 3D/2D Multi Pose Tracker
 
 Support both ONNX and Tensorflow
+
+![](markdown/top.png)
 
 ## How to use
 
@@ -28,7 +30,7 @@ RENDER = True
 ```
 ONNXRENDERER = True is much slower since many operations will fall back to CPU.
 
-SMPL model is used for 3D rendering, and the model is downloaded from here.
+SMPL model is used for 3D rendering. The model is downloaded from here.
 https://github.com/classner/up/blob/master/models/3D/basicModel_neutral_lbs_10_207_0_v1.0.0.pkl
 
 (You can also use male/female models)
@@ -46,6 +48,7 @@ SMPL: https://smpl.is.tue.mpg.de/
 
 ## Environment
 
+Tested with: 
 - Windows 10
 - Python 3.7
 
